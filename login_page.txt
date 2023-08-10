@@ -1,0 +1,12 @@
+Welcome to login page!
+
+git init - inicijalizacija
+git add <fajl> -> prebacivanje u staging
+git commit -m <poruka> -> kreiranje novog snapshota projekta
+
+git restore --staged <fajl>
+git restore -S <fajl> - informativno
+
+git status
+
+%
